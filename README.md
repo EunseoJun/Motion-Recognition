@@ -21,7 +21,7 @@ Ingestion devices : Hicardi
 
 Feature : ECG, Accelerometer(Multi-Modality)
 
-![Hicardi.jpg](images\d9bd865a-07b7-4f21-8fa8-9e921330e00b.png)
+![Hicardi.jpg](images/Hicardi.png)
 
 Model Structure Figure
 
