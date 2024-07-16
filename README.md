@@ -21,32 +21,30 @@ Ingestion devices : Hicardi
 
 Feature : ECG, Accelerometer(Multi-Modality)
 
-![Hicardi.jpg](images/Hicardi.png)
+<img src="images/Hicardi.png" alt="Hicardi.jpg" width="600">
 
 Model Structure Figure
 
-![Untitled](images/Untitled.png)
+<img src="images/Untitled.png" alt="Untitled" width="600">
 
         Model Structure
 
-![Untitled](images/Untitled%201.png)
+<img src="images/Untitled1.png" alt="Untitled" width="600">
 
                          LSTM
 
-![Untitled](images/Untitled%202.png)
+<img src="images/Untitled2.png" alt="Untitled" width="600">
 
                   CNN
 
 Data Split
 
-![Untitled](images/Untitled%203.png)
+<img src="images/Untitled3.png" alt="Untitled" width="600">
 
 Train Report
 
-![Untitled](images/Untitled%204.png)
+<img src="images/Untitled4.png" alt="Untitled" width="600">
+<img src="images/Untitled5.png" alt="Untitled" width="600">
+<img src="images/Untitled6.png" alt="Untitled" width="600">
+<img src="images/Untitled7.png" alt="Untitled" width="600">
 
-![Untitled](images/Untitled%205.png)
-
-![Untitled](images/Untitled%206.png)
-
-![Untitled](images/Untitled%207.png)
