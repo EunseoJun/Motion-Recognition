@@ -1,10 +1,10 @@
 # Motion recognition
 
-Result
+**Result**
 
 Achieved 97% accuracy for 6 classes! :smile:
 
-Data
+**Data**
 
 Class : Walk, Sit, Lay, Step up, Step down 
 
