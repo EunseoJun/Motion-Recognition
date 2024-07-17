@@ -2,7 +2,7 @@
 
 **Result**
 
-Achieved 97% accuracy for 6 classes! :smile:
+Achieved 97% accuracy for 5 classes! :smile:
 
 **Data**
 
