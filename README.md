@@ -1,13 +1,8 @@
----
-layout: post
-title: "Notion으로 글 작성하고 Github io로 글 옮기기"
-subtitle: "[Tips]"
-date: 2020-03-02 17:00
-background: 
-tag: [Tips, Github io, Notion]
----
-
 # Motion recognition
+
+Result
+
+Achieved 97% accuracy for 6 classes! :smile:
 
 Data
 
@@ -19,9 +14,10 @@ Number of Subject : about 10
 
 Ingestion devices : Hicardi
 
+<img src="images/Hicardi.png" alt="Hicardi.png" width="600">
+
 Feature : ECG, Accelerometer(Multi-Modality)
 
-<img src="images/Hicardi.png" alt="Hicardi.png" width="600">
 
 Model Structure Figure
 
